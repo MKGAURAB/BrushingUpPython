@@ -1,2 +1,2 @@
 # BrushingUpPython
-Brushing up my python skills  
+Brushing up my python skills
